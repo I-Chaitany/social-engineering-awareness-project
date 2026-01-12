@@ -1,0 +1,23 @@
+social-engineering-awareness/
+│
+├── README.md
+├── LICENSE
+├── phishing/
+│   ├── phishing_theory.mdr
+│   └── phishing_detection.py
+│
+├── vishing/
+│   └── vishing_theory.md
+│
+├── smishing/
+│   └── smishing_theory.md
+│
+├── osint/
+│   ├── google_dorking.md
+│   ├── linkedin_risks.md
+│   └── metadata_exposure.md
+│
+├── setoolkit/
+│   └── setoolkit_overview.md
+│
+└── screenshots/
